@@ -29,4 +29,8 @@
     <None Remove="wwwroot\NovaPasta\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\img\Justen Bieber foto.jpg" />
+  </ItemGroup>
+
 </Project>
